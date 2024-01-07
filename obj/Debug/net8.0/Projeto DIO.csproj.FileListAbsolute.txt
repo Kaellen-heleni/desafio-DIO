@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Área de Trabalho\Projeto DIO\bin\Debug\net8.0\Projeto DIO.exe
+C:\Users\user\OneDrive\Área de Trabalho\Projeto DIO\bin\Debug\net8.0\Projeto DIO.deps.json
+C:\Users\user\OneDrive\Área de Trabalho\Projeto DIO\bin\Debug\net8.0\Projeto DIO.runtimeconfig.json
+C:\Users\user\OneDrive\Área de Trabalho\Projeto DIO\bin\Debug\net8.0\Projeto DIO.dll
+C:\Users\user\OneDrive\Área de Trabalho\Projeto DIO\bin\Debug\net8.0\Projeto DIO.pdb
+C:\Users\user\OneDrive\Área de Trabalho\Projeto DIO\obj\Debug\net8.0\Projeto DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Área de Trabalho\Projeto DIO\obj\Debug\net8.0\Projeto DIO.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Área de Trabalho\Projeto DIO\obj\Debug\net8.0\Projeto DIO.AssemblyInfo.cs
+C:\Users\user\OneDrive\Área de Trabalho\Projeto DIO\obj\Debug\net8.0\Projeto DIO.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Área de Trabalho\Projeto DIO\obj\Debug\net8.0\Projeto DIO.dll
+C:\Users\user\OneDrive\Área de Trabalho\Projeto DIO\obj\Debug\net8.0\refint\Projeto DIO.dll
+C:\Users\user\OneDrive\Área de Trabalho\Projeto DIO\obj\Debug\net8.0\Projeto DIO.pdb
+C:\Users\user\OneDrive\Área de Trabalho\Projeto DIO\obj\Debug\net8.0\Projeto DIO.genruntimeconfig.cache
+C:\Users\user\OneDrive\Área de Trabalho\Projeto DIO\obj\Debug\net8.0\ref\Projeto DIO.dll
